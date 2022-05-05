@@ -89,10 +89,6 @@ aside a::before {
     content: "◎";
     margin-right: 20%;
     font-size: 2em;
-    /* position: absolut; */
-    /* display: inline;
-    justify-content: center;
-    align-items: center; */
 }
 
 aside a:hover {
@@ -365,3 +361,39 @@ h6 {
     color: rgb(115, 115, 115);
     text-decoration: none;
 }
+
+/*========================== NEWSLETTER ==========================*/
+
+.newsletter {
+    background: rgba(134, 119, 114, 0.1);
+    color: rgb(115, 115, 115);
+    height: 60vh;
+    width: 100%;
+    margin: 20vh 20%;
+    position: absolute;
+    padding: 10vh 10%;
+}
+
+.signUp {
+    margin-bottom: 5vh;
+}
+
+input[type="text"],
+input[type="email"] {
+    display: block;
+    margin: 2vh 0;
+    padding: 0 10%;
+}
+
+input[type="email"] {
+    margin-bottom: 5vh;
+}
+
+.newsletter a {
+    font-size: 0.7em;
+    background: #ebccc2;
+    padding: 1vh 4%;
+    color: rgb(115, 115, 115);
+    text-decoration: none;
+}
+
