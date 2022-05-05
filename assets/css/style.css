@@ -61,6 +61,11 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    text-decoration: underline;
+    transition: all 0.5s ease;
+}
+
 .heroSection img {
     width: 80%;
     margin: 50vh 10% 0 10%;
@@ -68,9 +73,45 @@ nav a {
 
 /*========= ASIDE =========*/
 
-/* aside {
-    position: sticky;
-} */
+aside {
+    position: fixed;
+    left: 2%;
+    top: 25%;
+    /* line-height: 4em; */
+}
+
+aside a {
+    color: rgb(115, 115, 115);
+    text-decoration: none;
+}
+
+aside a::before {
+    content: "◎";
+    margin-right: 20%;
+    font-size: 2em;
+    position: absolut;
+    /* display: inline;
+    justify-content: center;
+    align-items: center; */
+}
+
+aside a:hover {
+    color: #ebccc2;
+    text-decoration: none;
+}
+
+aside ul li {
+    list-style: none;
+}
+
+.strich {
+    color: rgb(115, 115, 115);
+    font-weight: 100;
+    font-size: 4em;
+    margin-left: 8%;
+    margin-bottom: 0vh;
+    position: relative;
+}
 
 /*=========================== MAIN ===========================*/
 
