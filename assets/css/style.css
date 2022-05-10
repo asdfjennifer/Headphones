@@ -49,6 +49,8 @@ nav {
 nav ul {
     margin-left: 70%;
     margin-top: 5vh;
+    display: flex; 
+    justify-content: space-evenly; /*--- STILL TO FIX ---*/
 }
 
 nav ul li {
@@ -57,7 +59,7 @@ nav ul li {
 
 nav a {
     display: inline;
-    color: #ebccc2;
+    color: #867772;
     text-decoration: none;
 }
 
@@ -94,6 +96,7 @@ aside a::before {
 aside a:hover {
     color: #ebccc2;
     text-decoration: none;
+    font-size: 1.1em;
 }
 
 aside ul li {
@@ -109,7 +112,7 @@ aside ul li {
     margin-bottom: 0vh;
 }
 
-/*=========================== MAIN ===========================*/
+/*=========================== MAIN / ABOUT ===========================*/
 
 .about {
     display: flex;
@@ -167,7 +170,6 @@ h2 {
     background: #272727;
     flex-basis: 40%;
     display: block;
-    position: relative;
     margin-left: 5%;
 }
 
@@ -200,7 +202,6 @@ h2 {
     background: #272727;
     flex-basis: 40%;
     display: block;
-    position: relative;
     margin-left: 5%;
 }
 
@@ -214,7 +215,7 @@ h2 {
 /*========================== INSPIRATION ==========================*/
 
 video {
-    margin: 10vh 0 10vh 20%;
+    margin: 20vh 0 10vh 20%;
 }
 
 article {
@@ -331,8 +332,8 @@ h6 {
     background: #272727;
     flex-basis: 40%;
     display: block;
-    position: relative;
-    margin-left: 5%;
+    
+    margin-top: 10vh;
 }
 
 .shop img {
