@@ -19,6 +19,9 @@ Ergebnis: https://asdfjennifer.github.io/Headphones/
 
 Note: Bonus hinzufügen
 
+![Kopie von giphy](https://user-images.githubusercontent.com/98667941/182259501-9508152d-13bc-458b-a765-3841c5f61a4a.gif)
+
+
 <img width="1678" alt="Bildschirmfoto 2022-08-02 um 00 54 44" src="https://user-images.githubusercontent.com/98667941/182259186-6ff44e26-bced-44e0-815f-b70e45a177f0.png">
 <img width="1680" alt="Bildschirmfoto 2022-08-02 um 00 55 19" src="https://user-images.githubusercontent.com/98667941/182259190-818e53cb-d7f1-4900-a524-78a761843470.png">
 <img width="1678" alt="Bildschirmfoto 2022-08-02 um 00 55 31" src="https://user-images.githubusercontent.com/98667941/182259198-4f15b80d-01f9-4140-91e9-54379ad64a07.png">
