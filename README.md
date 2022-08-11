@@ -8,7 +8,6 @@ Verwendete Technologien:
 
 - HTML
 - CSS
-- Javascript
 
 Bonus:
 Erstelle zusätzlich eine Seite, auf der die Kunden einen Newsletter abonnieren und Kontakt aufnehmen können. Nutze die gleiche Schrift und Farben.
@@ -17,6 +16,5 @@ Zusätzlich könnt ihr die Seite responsive machen.
 
 Ergebnis: https://asdfjennifer.github.io/Headphones/
 
-Note: Bonus hinzufügen
 
 ![Kopie von giphy](https://user-images.githubusercontent.com/98667941/182259501-9508152d-13bc-458b-a765-3841c5f61a4a.gif)
