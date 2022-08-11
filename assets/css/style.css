@@ -38,27 +38,26 @@ h1 {
     position: absolute;
     margin: 15vh 30%;
 }
+
 /*========== NAV ==========*/
 
 nav {
     width: 100%;
-    display: flex;
     position: fixed;
 }
 
 nav ul {
     margin-left: 70%;
     margin-top: 5vh;
-    display: flex; 
-    justify-content: space-evenly; /*--- STILL TO FIX ---*/
+    display: flex;
+    justify-content: space-evenly;
 }
 
 nav ul li {
-    display: inline;
+    list-style: none;
 }
 
 nav a {
-    display: inline;
     color: #867772;
     text-decoration: none;
 }
@@ -94,6 +93,13 @@ aside a::before {
 }
 
 aside a:hover {
+    color: #ebccc2;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+}
+
+aside a:active {
     color: #ebccc2;
     text-decoration: none;
     font-size: 1.1em;
@@ -222,6 +228,7 @@ article {
     margin: 0 0 10vh 20%;
 
 }
+
 h3 {
     font-size: 1.5em;
     color: #ebccc2;
@@ -332,7 +339,7 @@ h6 {
     background: #272727;
     flex-basis: 40%;
     display: block;
-    
+
     margin-top: 10vh;
 }
 
@@ -397,4 +404,3 @@ input[type="email"] {
     color: rgb(115, 115, 115);
     text-decoration: none;
 }
-
