@@ -64,7 +64,8 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-    transition: all 0.7s linear;
+    color: #ebccc2;
+    transition: all 0.5s ease;
 }
 
 .heroSection img {
@@ -99,8 +100,9 @@ aside a:hover {
     transition: all 0.3s ease;
 }
 
-aside a:active {
+aside a:focus {
     color: #ebccc2;
+    font-size: 1.1em;
     text-decoration: none;
     font-size: 1.1em;
 }
