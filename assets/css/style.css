@@ -100,14 +100,11 @@ aside a:hover {
     transition: all 0.3s ease;
 }
 
-aside a:active,
-aside a:focus,
-aside a:target,
-{
-color: #ebccc2;
-font-size: 1.1em;
-text-decoration: none;
-font-size: 1.1em;
+.active {
+    color: #ebccc2;
+    font-size: 1.1em;
+    text-decoration: none;
+    font-size: 1.1em;
 }
 
 aside ul li {
